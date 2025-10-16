@@ -13,4 +13,5 @@ Report Design and Layout: As the project grew, I ran into the design challenge o
 and using tooltips to add detailed information without taking up valuable canvas space.
 
 Project Sharing and Deployment: A final hurdle was my inability to sign up for the free Power BI Service, which meant I had to find an alternative way to showcase my interactive dashboard. 
-This led me to explore and learn how to create a video walkthrough and a project summary, which ultimately resulted in a more comprehensive and well-rounded portfolio piece.
+This led me to explore and learn how to create a video walkthrough and a project summary. However, I found that the video slowed my portfolio website significantly which ultimately led me to share pictures instead. 
+This resulted in a more comprehensive and well-rounded portfolio piece.
